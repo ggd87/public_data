@@ -1,0 +1,16 @@
+Coefficient,Term,Coefficient type
+-76.6667740610401,I,<class 'numpy.float64'>
+-0.0328303392255469,Z3,<class 'numpy.float64'>
+-0.0328303338489077,Z2,<class 'numpy.float64'>
+0.1203255236342814,Z2 Z3,<class 'numpy.float64'>
+0.0353981062287721,Z1,<class 'numpy.float64'>
+0.0860147132578869,Z1 Z3,<class 'numpy.float64'>
+0.118233260958253,Z1 Z2,<class 'numpy.float64'>
+-0.0322185405431427,X0 X1 Y2 Y3,<class 'numpy.float64'>
+0.0322185405431427,X0 Y1 Y2 X3,<class 'numpy.float64'>
+0.0322185405431427,Y0 X1 X2 Y3,<class 'numpy.float64'>
+-0.0322185405431427,Y0 Y1 X2 X3,<class 'numpy.float64'>
+0.035398107309161,Z0,<class 'numpy.float64'>
+0.1182332469958141,Z0 Z3,<class 'numpy.float64'>
+0.0860147136098928,Z0 Z2,<class 'numpy.float64'>
+0.1177071310054064,Z0 Z1,<class 'numpy.float64'>

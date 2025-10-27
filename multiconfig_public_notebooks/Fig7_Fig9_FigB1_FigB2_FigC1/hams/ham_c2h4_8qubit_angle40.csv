@@ -1,0 +1,98 @@
+Coefficient,Term,Coefficient type
+-75.33285174206029,I,<class 'numpy.float64'>
+-0.4157967769950917,Z7,<class 'numpy.float64'>
+-0.4157967662252079,Z6,<class 'numpy.float64'>
+0.1612041955778297,Z6 Z7,<class 'numpy.float64'>
+-0.0904827548880094,Z5,<class 'numpy.float64'>
+0.1220933944167448,Z5 Z7,<class 'numpy.float64'>
+0.1301557954656105,Z5 Z6,<class 'numpy.float64'>
+-0.0080624016245333,X4 X5 Y6 Y7,<class 'numpy.float64'>
+0.0080624016245333,X4 Y5 Y6 X7,<class 'numpy.float64'>
+0.0080624016245333,Y4 X5 X6 Y7,<class 'numpy.float64'>
+-0.0080624016245333,Y4 Y5 X6 X7,<class 'numpy.float64'>
+-0.090482748019501,Z4,<class 'numpy.float64'>
+0.1301557996583047,Z4 Z7,<class 'numpy.float64'>
+0.1220933974581035,Z4 Z6,<class 'numpy.float64'>
+0.1240614798242915,Z4 Z5,<class 'numpy.float64'>
+0.0175772065318794,Z3,<class 'numpy.float64'>
+0.1219675536287271,Z3 Z7,<class 'numpy.float64'>
+0.1286649389995044,Z3 Z6,<class 'numpy.float64'>
+0.0856029500021734,Z3 Z5,<class 'numpy.float64'>
+0.1209164853995619,Z3 Z4,<class 'numpy.float64'>
+-0.0066973854953038,X2 X3 Y6 Y7,<class 'numpy.float64'>
+-0.0353135307372911,X2 X3 Y4 Y5,<class 'numpy.float64'>
+0.0066973854953038,X2 Y3 Y6 X7,<class 'numpy.float64'>
+0.0353135307372911,X2 Y3 Y4 X5,<class 'numpy.float64'>
+0.0066973854953038,Y2 X3 X6 Y7,<class 'numpy.float64'>
+0.0353135307372911,Y2 X3 X4 Y5,<class 'numpy.float64'>
+-0.0066973854953038,Y2 Y3 X6 X7,<class 'numpy.float64'>
+-0.0353135307372911,Y2 Y3 X4 X5,<class 'numpy.float64'>
+0.0175772162259943,Z2,<class 'numpy.float64'>
+0.1286649333382417,Z2 Z7,<class 'numpy.float64'>
+0.121967547718411,Z2 Z6,<class 'numpy.float64'>
+0.1209164765129423,Z2 Z5,<class 'numpy.float64'>
+0.0856029504357476,Z2 Z4,<class 'numpy.float64'>
+0.1198607422430044,Z2 Z3,<class 'numpy.float64'>
+-0.0030577107871966,X1 X2 Y5 Y6,<class 'numpy.float64'>
+-0.0225370606377813,X1 X2 X4 Z5 Z6 X7,<class 'numpy.float64'>
+0.0030577107871966,X1 Y2 Y5 X6,<class 'numpy.float64'>
+-0.0225370606377813,X1 Y2 Y4 Z5 Z6 X7,<class 'numpy.float64'>
+-0.0179688938635958,X1 Z2 X3 X5 Z6 X7,<class 'numpy.float64'>
+0.0015104570441802,X1 Z2 X3 Y5 Z6 Y7,<class 'numpy.float64'>
+0.0045681678121191,X1 Z2 X3 X4 Z5 X6,<class 'numpy.float64'>
+0.0045681678121191,X1 Z2 X3 Y4 Z5 Y6,<class 'numpy.float64'>
+-0.019479350907776,X1 Z2 Y3 Y5 Z6 X7,<class 'numpy.float64'>
+0.0030577107871966,Y1 X2 X5 Y6,<class 'numpy.float64'>
+-0.0225370606377813,Y1 X2 X4 Z5 Z6 Y7,<class 'numpy.float64'>
+-0.0030577107871966,Y1 Y2 X5 X6,<class 'numpy.float64'>
+-0.0225370606377813,Y1 Y2 Y4 Z5 Z6 Y7,<class 'numpy.float64'>
+-0.019479350907776,Y1 Z2 X3 X5 Z6 Y7,<class 'numpy.float64'>
+0.0015104570441802,Y1 Z2 Y3 X5 Z6 X7,<class 'numpy.float64'>
+-0.0179688938635958,Y1 Z2 Y3 Y5 Z6 Y7,<class 'numpy.float64'>
+0.0045681678121191,Y1 Z2 Y3 X4 Z5 X6,<class 'numpy.float64'>
+0.0045681678121191,Y1 Z2 Y3 Y4 Z5 Y6,<class 'numpy.float64'>
+0.1400772219213721,Z1,<class 'numpy.float64'>
+0.1063404665200809,Z1 Z7,<class 'numpy.float64'>
+0.1302172771597866,Z1 Z6,<class 'numpy.float64'>
+0.1060388246894968,Z1 Z5,<class 'numpy.float64'>
+0.1104776405005278,Z1 Z4,<class 'numpy.float64'>
+0.1038949361362245,Z1 Z3,<class 'numpy.float64'>
+0.1097000205127723,Z1 Z2,<class 'numpy.float64'>
+-0.0238768113540503,X0 X1 Y6 Y7,<class 'numpy.float64'>
+-0.0044388134701027,X0 X1 Y4 Y5,<class 'numpy.float64'>
+-0.0058050877980584,X0 X1 Y2 Y3,<class 'numpy.float64'>
+0.0238768113540503,X0 Y1 Y6 X7,<class 'numpy.float64'>
+0.0044388134701027,X0 Y1 Y4 X5,<class 'numpy.float64'>
+0.0058050877980584,X0 Y1 Y2 X3,<class 'numpy.float64'>
+0.0045681667222852,X0 Z1 X2 X5 Z6 X7,<class 'numpy.float64'>
+0.0045681667222852,X0 Z1 X2 Y5 Z6 Y7,<class 'numpy.float64'>
+-0.0179688939746242,X0 Z1 X2 X4 Z5 X6,<class 'numpy.float64'>
+0.0015104567142942,X0 Z1 X2 Y4 Z5 Y6,<class 'numpy.float64'>
+-0.0194793506889184,X0 Z1 Y2 Y4 Z5 X6,<class 'numpy.float64'>
+-0.022537061734843,X0 Z1 Z2 X3 X5 X6,<class 'numpy.float64'>
+-0.0030577099887334,X0 Z1 Z2 X3 Y4 Z5 Z6 Y7,<class 'numpy.float64'>
+-0.022537061734843,X0 Z1 Z2 Y3 Y5 X6,<class 'numpy.float64'>
+0.0030577099887334,X0 Z1 Z2 Y3 Y4 Z5 Z6 X7,<class 'numpy.float64'>
+0.0238768113540503,Y0 X1 X6 Y7,<class 'numpy.float64'>
+0.0044388134701027,Y0 X1 X4 Y5,<class 'numpy.float64'>
+0.0058050877980584,Y0 X1 X2 Y3,<class 'numpy.float64'>
+-0.0238768113540503,Y0 Y1 X6 X7,<class 'numpy.float64'>
+-0.0044388134701027,Y0 Y1 X4 X5,<class 'numpy.float64'>
+-0.0058050877980584,Y0 Y1 X2 X3,<class 'numpy.float64'>
+-0.0194793506889184,Y0 Z1 X2 X4 Z5 Y6,<class 'numpy.float64'>
+0.0045681667222852,Y0 Z1 Y2 X5 Z6 X7,<class 'numpy.float64'>
+0.0045681667222852,Y0 Z1 Y2 Y5 Z6 Y7,<class 'numpy.float64'>
+0.0015104567142942,Y0 Z1 Y2 X4 Z5 X6,<class 'numpy.float64'>
+-0.0179688939746242,Y0 Z1 Y2 Y4 Z5 Y6,<class 'numpy.float64'>
+-0.022537061734843,Y0 Z1 Z2 X3 X5 Y6,<class 'numpy.float64'>
+0.0030577099887334,Y0 Z1 Z2 X3 X4 Z5 Z6 Y7,<class 'numpy.float64'>
+-0.022537061734843,Y0 Z1 Z2 Y3 Y5 Y6,<class 'numpy.float64'>
+-0.0030577099887334,Y0 Z1 Z2 Y3 X4 Z5 Z6 X7,<class 'numpy.float64'>
+0.1400772192457426,Z0,<class 'numpy.float64'>
+0.1302172781824258,Z0 Z7,<class 'numpy.float64'>
+0.1063404661140307,Z0 Z6,<class 'numpy.float64'>
+0.1104776396974468,Z0 Z5,<class 'numpy.float64'>
+0.1060388285682717,Z0 Z4,<class 'numpy.float64'>
+0.1097000243270267,Z0 Z3,<class 'numpy.float64'>
+0.1038949331074568,Z0 Z2,<class 'numpy.float64'>
+0.1163291788504493,Z0 Z1,<class 'numpy.float64'>
